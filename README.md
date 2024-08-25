@@ -1,4 +1,6 @@
-<p align="left">My name is Victor Silva and I'm a Desenvolvedor Front-End</p>
+<br clear="both">
+
+<h2 align="center">My name is Victor Silva and I'm a Desenvolvedor Front-End</h2>
 
 ###
 
